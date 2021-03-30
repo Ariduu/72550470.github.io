@@ -1,2 +1,2 @@
-# mi pagina pirata.git.d.ts
+# mi pagina pirata
 Una pagina con un titulo fake y copiado v: 
